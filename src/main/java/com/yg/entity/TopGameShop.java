@@ -14,7 +14,7 @@ public class TopGameShop {
     private String image;
     private int vip_num;//vip等级
     private int total_num;//总数
-    private int received_num;//领取数
+    private int received_num;  //领取数
     private int is_host;//是否热销
     private Date start_time;
     private Date expire_time;
