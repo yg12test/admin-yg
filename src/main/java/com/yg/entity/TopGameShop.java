@@ -16,7 +16,7 @@ public class TopGameShop {
     private int total_num;//总数
     private int received_num;  //领取数
     private int is_host;//是否热销
-    private Date start_time;
-    private Date expire_time;
+    private Date start_time;//
+    private Date expire_time;//
     private Date create_time;
 }
